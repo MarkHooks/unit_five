@@ -8,7 +8,7 @@ def random_number():
     this program gets the random number
     :return: this returns the function
     """
-    number = random.randint(1, 1000000000)
+    number = random.randint(1, 100)
     return number
 
 
